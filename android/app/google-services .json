@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "329545331010",
+    "firebase_url": "https://rana-3a967.firebaseio.com",
+    "project_id": "rana-3a967",
+    "storage_bucket": "rana-3a967.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329545331010:android:9dc3a46c98fef487aa18db",
+        "android_client_info": {
+          "package_name": "com.example.ranavaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329545331010-cupqaj4fiddogs7ng5faimv63q2vm22d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ranavaj",
+            "certificate_hash": "b45dac242050f177d76b0d3629faf07e046df592"
+          }
+        },
+        {
+          "client_id": "329545331010-5v6fn4mc33i2tb8fc2lg7l8j0f4v9o3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkmXUAn1J5gSO8Re-PQ3VQCgZkmSEIqpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329545331010-5v6fn4mc33i2tb8fc2lg7l8j0f4v9o3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
